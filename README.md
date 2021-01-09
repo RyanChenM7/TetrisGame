@@ -1,5 +1,5 @@
 # TetrisGame
-Customized Tetris game with customizable background images and songs that change as you play the game.
+My own version of the Tetris game with customizable background images and songs that change as you play the game.
 
 Default song is the 8bit Tetris Theme.
 
